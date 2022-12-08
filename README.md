@@ -1,8 +1,8 @@
-# Recipies Project
+# Recipes Project
 
 ## Description
 
-This project is is about creating a website that stores and loads recipies for users to use.
+This project is is about creating a website that stores and loads recipes for users to use.
 
 ## What I learned
 
